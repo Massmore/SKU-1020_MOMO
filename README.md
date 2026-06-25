@@ -3,7 +3,7 @@
 **WiFi · Bluetooth · AI · Arduino — by Massmore**
 `SKU-1020`
 
-![MOMO ESP32-S3 Robot Development Board](images/board-overview.png)
+![MOMO ESP32-S3 Robot Development Board](images/SKU-1020 (3).png)
 
 > All-in-one robotics development board built around the **Espressif ESP32-S3-WROOM-1U (N16R8)**: a powerful dual-core AIoT MCU, a 4-channel DC-motor driver, a 16-channel servo/PWM driver, an on-board color LCD and robust power management — everything you need to build a Wi-Fi / Bluetooth robot on a single board.
 
