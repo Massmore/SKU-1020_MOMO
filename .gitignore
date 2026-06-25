@@ -1,0 +1,7 @@
+# Arduino / build
+build/
+*.bin
+*.elf
+*.map
+.DS_Store
+Thumbs.db
